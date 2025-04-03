@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\User\\Desktop\\Society\\case\\VR\\3_ShootingTeach\\shooting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D55E74DB-C767-72FB-1366-547D7D1CA807}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj|d:\\user\\desktop\\society\\case\\vr\\3_shootingteach\\shooting\\assets\\samples\\xr interaction toolkit\\2.6.4\\starter assets\\editor\\scripts\\starterassetssampleprojectvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55E74DB-C767-72FB-1366-547D7D1CA807}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj|solutionrelative:assets\\samples\\xr interaction toolkit\\2.6.4\\starter assets\\editor\\scripts\\starterassetssampleprojectvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StarterAssetsSampleProjectValidation.cs",
+              "DocumentMoniker": "D:\\User\\Desktop\\Society\\case\\VR\\3_ShootingTeach\\shooting\\Assets\\Samples\\XR Interaction Toolkit\\2.6.4\\Starter Assets\\Editor\\Scripts\\StarterAssetsSampleProjectValidation.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\2.6.4\\Starter Assets\\Editor\\Scripts\\StarterAssetsSampleProjectValidation.cs",
+              "ToolTip": "D:\\User\\Desktop\\Society\\case\\VR\\3_ShootingTeach\\shooting\\Assets\\Samples\\XR Interaction Toolkit\\2.6.4\\Starter Assets\\Editor\\Scripts\\StarterAssetsSampleProjectValidation.cs",
+              "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\2.6.4\\Starter Assets\\Editor\\Scripts\\StarterAssetsSampleProjectValidation.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAewE4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:01:30.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
